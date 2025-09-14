@@ -1,6 +1,6 @@
 ## Hi! Just call me Jenn 🙋🏻‍♀️
 
-Master's Student at [Department of Geography, Seoul National University](https://geog.snu.ac.kr/e_sub01/sub01.php)
+Researcher of the Dept. of Economics at [Goyang City Institute](https://www.goyang.re.kr/eng/introduce/01.php)
 
 - Frequently Used Languages and Programs: `Python`, `QGIS`, `Gurobi`
 - Mostly interested in **Technological Innovation**, **Mobility**, **Sustainable Development**, **Quality of Life**, **GIScience**
