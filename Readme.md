@@ -1,6 +1,6 @@
 ## Hi! Just call me Jenn 🙋🏻‍♀️
 
-Researcher of the Dept. of Economics at [Goyang City Institute](https://www.goyang.re.kr/eng/introduce/01.php)
+Research Associate of the Dept. of Economics at [Goyang City Institute](https://www.goyang.re.kr/eng/introduce/01.php)
 
 - Frequently Used Languages and Programs: `Python`, `QGIS`, `Gurobi`
 - Mostly interested in **Technological Innovation**, **Mobility**, **Quality of Life**, **GIScience**
